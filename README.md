@@ -30,7 +30,7 @@ Each project folder includes:
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 This repository showcases my Data Science learning journey — from foundational data analysis to advanced model development.  
 It also serves as my **portfolio** for career opportunities in the field of **Data Science & Machine Learning**.
