@@ -12,7 +12,7 @@ Each project demonstrates real-world data handling — from data cleaning and an
 |-----------|--------------|
 | **Regression** | Predicting continuous outcomes using Linear Regression, Multiple Regression, and other algorithms |
 | **Classification** | Binary and multi-class classification models using Logistic Regression, Decision Trees, Random Forest, etc. |
-| **Clustering** | Unsupervised learning techniques such as K-Means, Hierarchical, and Gaussian Mixture Models |
+| **Clustering** | Unsupervised learning techniques such as K-Means and Gaussian Mixture Models |
 
 ---
 
