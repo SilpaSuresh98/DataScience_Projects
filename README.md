@@ -1,4 +1,4 @@
-# 🧠 Data Science Projects Portfolio
+#  Data Science Projects Portfolio
 
 Welcome to my Data Science portfolio!  
 This repository contains a collection of my end-to-end Data Science projects and learning experiments.  
@@ -6,7 +6,7 @@ Each project demonstrates real-world data handling — from data cleaning and an
 
 ---
 
-## 📁 Folder Overview
+## Folder Overview
 
 | Category | Description |
 |-----------|--------------|
@@ -17,11 +17,11 @@ Each project demonstrates real-world data handling — from data cleaning and an
 ---
 
 
-## 🚀 Project Highlights
+##  Project Highlights
 
-- 📊 **Regression:** Predicting house prices using Linear Regression  
-- 🧩 **Classification:** Customer churn prediction with Decision Trees  
-- 🧠 **Clustering:** FIFA 20 player segmentation using K-Means  
+- **Regression:** Predicting house prices using Linear Regression  
+- **Classification:** Customer churn prediction with Decision Trees  
+- **Clustering:** FIFA 20 player segmentation using K-Means  
 
 Each project folder includes:
 - Cleaned datasets or data sources  
