@@ -26,7 +26,7 @@ Each project demonstrates real-world data handling — from data cleaning and an
 - **Classification:** Customer churn prediction with Decision Trees  
 - **Clustering:** FIFA 20 player segmentation using K-Means
 - **DeepLearning:** Walk& run classification using mlp & LSTM.
-- **INX_Employee_Performance_Project:** Emplloyee classification using Boosting and svm models(IABAC project).
+- **INX_Employee_Performance_Project:** Employee classification using Boosting and SVM models(IABAC project).
 
 Each project folder includes:
 - Cleaned datasets or data sources  
