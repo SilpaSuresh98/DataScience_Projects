@@ -14,7 +14,7 @@ Each project demonstrates real-world data handling — from data cleaning and an
 | **Classification** | Binary and multi-class classification models using Logistic Regression, Decision Trees, Random Forest, etc. |
 | **Clustering** | Unsupervised learning techniques such as K-Means and Gaussian Mixture Models |
 | **Deeplearning** | Useed MLP and k-means clustering for classify whether a person is running or walking based on the given predictor variables. |
-| **INX_Employee_Performance_Project** |A data-driven system to help INX identify department-wise performance, key influencing factors, and predict employee performance for better HR decisions.|
+| **INX_Employee_Performance_Project(IABAC)** |A data-driven system to help INX identify department-wise performance, key influencing factors, and predict employee performance for better HR decisions.|
 
 
 ---
@@ -24,7 +24,9 @@ Each project demonstrates real-world data handling — from data cleaning and an
 
 - **Regression:** Predicting house prices using Linear Regression  
 - **Classification:** Customer churn prediction with Decision Trees  
-- **Clustering:** FIFA 20 player segmentation using K-Means  
+- **Clustering:** FIFA 20 player segmentation using K-Means
+- **DeepLearning:** Walk& run classification using mlp & LSTM.
+- **INX_Employee_Performance_Project:** Emplloyee classification using Boosting and svm models(IABAC project).
 
 Each project folder includes:
 - Cleaned datasets or data sources  
