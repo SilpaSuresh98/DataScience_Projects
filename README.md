@@ -22,7 +22,7 @@ Each project demonstrates real-world data handling — from data cleaning and an
 
 ##  Project Highlights
 
-- **Regression:** Predicting house prices using Linear Regression  
+- **Regression:** Predicting flight prices using Linear Regression  
 - **Classification:** Customer churn prediction with Decision Trees  
 - **Clustering:** FIFA 20 player segmentation using K-Means
 - **DeepLearning:** Walk& run classification using mlp & LSTM.
